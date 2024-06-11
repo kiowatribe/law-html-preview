@@ -11,6 +11,10 @@
         {
           "commit": "121993003bd2084a26305d63a82232f047a50139",
           "name": "kiowatribe/law-xml"
+        },
+        {
+          "commit": "a252be2ce1d08c00f1dff305115ae3fbee5db29d",
+          "name": "kiowatribe/law-xml-codified-preview"
         }
       ]
     },
