@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "7b94a6bfcf0df7c252d7f1c1198662f9093ff262",
+          "commit": "aac07e39c2f85129a29344a0f970114f023f25a9",
           "name": "kiowatribe/law-xml"
         },
         {
-          "commit": "3f2b375e4c118d2cb97310f4375660631fe28ec6",
+          "commit": "e4fd6edfc9cb7c4b361b1d68f39c1fe1ea3c054c",
           "name": "kiowatribe/law-xml-codified-preview"
         }
       ],
