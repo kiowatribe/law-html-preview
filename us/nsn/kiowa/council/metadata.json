@@ -1,19 +1,19 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-06-04",
-      "codified-date": "2024-09-24",
+      "build-date": "2025-06-26",
+      "codified-date": "2025-04-22",
       "platform": {
         "reproducible": "false",
-        "version": "2.16.0"
+        "version": "2.17.0"
       },
       "repositories": [
         {
-          "commit": "aac07e39c2f85129a29344a0f970114f023f25a9",
+          "commit": "4c81e9c484e7cf4eedfff951f4858085cd15249b",
           "name": "kiowatribe/law-xml"
         },
         {
-          "commit": "e4fd6edfc9cb7c4b361b1d68f39c1fe1ea3c054c",
+          "commit": "adbadb993b1d5c55831c106ad675cfcb3051490d",
           "name": "kiowatribe/law-xml-codified-preview"
         }
       ],
@@ -22,7 +22,7 @@
       }
     },
     "canonical-urls": {
-      "html": "",
+      "html": "https://law.kiowatribe.org",
       "html-bulk": "https://github.com/kiowatribe/law-html",
       "static-assets": "https://github.com/kiowatribe/law-static-assets",
       "xml-bulk": "https://github.com/kiowatribe/law-xml"
