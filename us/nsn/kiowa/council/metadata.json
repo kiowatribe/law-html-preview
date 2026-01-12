@@ -1,19 +1,19 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-11-26",
+      "build-date": "2026-01-12",
       "codified-date": "2025-11-14",
       "platform": {
         "reproducible": "false",
-        "version": "2.17.4"
+        "version": "2.18.5"
       },
       "repositories": [
         {
-          "commit": "5ea46ccb7b865e7d29ea1cf64520b3fed304215f",
+          "commit": "2a4553b7e6f2d757bb28600f9e8bfb291f16a9d4",
           "name": "kiowatribe/law-xml"
         },
         {
-          "commit": "cebb7a26b5d53701776e7b984f486cc9496ac3d4",
+          "commit": "80fbe7d1c5f7b6cd9dae145bec2996257abb3668",
           "name": "kiowatribe/law-xml-codified-preview"
         }
       ],
